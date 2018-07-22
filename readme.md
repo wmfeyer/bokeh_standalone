@@ -1,1 +1,2 @@
-## This is a readme file for my bokeh example
+# A project to take tcx files and make cool plots and get stats
+
